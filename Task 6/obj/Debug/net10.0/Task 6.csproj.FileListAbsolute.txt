@@ -1,0 +1,14 @@
+C:\Users\banda\RiderProjects\workshop\Task 6\bin\Debug\net10.0\Task 6.exe
+C:\Users\banda\RiderProjects\workshop\Task 6\bin\Debug\net10.0\Task 6.deps.json
+C:\Users\banda\RiderProjects\workshop\Task 6\bin\Debug\net10.0\Task 6.runtimeconfig.json
+C:\Users\banda\RiderProjects\workshop\Task 6\bin\Debug\net10.0\Task 6.dll
+C:\Users\banda\RiderProjects\workshop\Task 6\bin\Debug\net10.0\Task 6.pdb
+C:\Users\banda\RiderProjects\workshop\Task 6\obj\Debug\net10.0\Task 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banda\RiderProjects\workshop\Task 6\obj\Debug\net10.0\Task 6.AssemblyInfoInputs.cache
+C:\Users\banda\RiderProjects\workshop\Task 6\obj\Debug\net10.0\Task 6.AssemblyInfo.cs
+C:\Users\banda\RiderProjects\workshop\Task 6\obj\Debug\net10.0\Task 6.csproj.CoreCompileInputs.cache
+C:\Users\banda\RiderProjects\workshop\Task 6\obj\Debug\net10.0\Task 6.dll
+C:\Users\banda\RiderProjects\workshop\Task 6\obj\Debug\net10.0\refint\Task 6.dll
+C:\Users\banda\RiderProjects\workshop\Task 6\obj\Debug\net10.0\Task 6.pdb
+C:\Users\banda\RiderProjects\workshop\Task 6\obj\Debug\net10.0\Task 6.genruntimeconfig.cache
+C:\Users\banda\RiderProjects\workshop\Task 6\obj\Debug\net10.0\ref\Task 6.dll
